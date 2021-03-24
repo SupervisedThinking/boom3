@@ -70,7 +70,7 @@ struct retro_core_option_definition option_defs_us[] = {
 		 { "3840x2160",   NULL },
          { NULL, NULL },
       },
-      "960x544"
+      "1280x720"
    },
    {
       "doom_invert_y_axis",
@@ -81,7 +81,7 @@ struct retro_core_option_definition option_defs_us[] = {
          { "enabled",   "Enabled" },
          { NULL, NULL },
       },
-      "enabled"
+      "disabled"
    },
    {
       "doom_fps",
@@ -148,7 +148,7 @@ struct retro_core_option_definition option_defs_it[] = {
 		 { "3840x2160",   NULL },
          { NULL, NULL },
       },
-      "960x544"
+      "1280x720"
    },
    {
       "doom_invert_y_axis",
@@ -159,7 +159,7 @@ struct retro_core_option_definition option_defs_it[] = {
          { "enabled",   "Attivato" },
          { NULL, NULL },
       },
-      "enabled"
+      "disabled"
    },
    {
       "doom_fps",
